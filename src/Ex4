@@ -1,0 +1,8 @@
+public static void main(String[] args) {
+		String name ("This is Exercise 4");
+	}
+
+String exerciseMethod4(String name) {
+	return name;
+	
+}
